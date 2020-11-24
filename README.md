@@ -1,2 +1,5 @@
 # Tests_World
-Do some tests on github
+Do some tests.
+
+Bon courage, Pen!!
+Tu vais être un vrai showmaker un jour.
